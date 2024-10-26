@@ -1,3 +1,6 @@
 [submodule "machx_docker"]
 	path = machx_docker
 	url = git@github.com:jrendon102/machx_docker.git
+[submodule "machx_code"]
+	path = machx_code
+	url = git@github.com:jrendon102/machx_code.git
